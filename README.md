@@ -62,10 +62,7 @@ All decisions link back to canonical documentation.
 
 | Document | Description |
 |----------|-------------|
-| [Architecture](./ARCHITECTURE.md) | System design |
-| [Case Study](./CASE_STUDY.md) | Full project overview |
-| [Security](./docs/security.md) | Security practices |
-| [ADRs](./docs/adr/) | Architecture decision records |
+| [Case Study](https://github.com/iamnortey/portfolio/blob/main/case-studies/ninobyte.md) | Full project overview |
 
 ---
 
