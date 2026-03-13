@@ -1,36 +1,26 @@
-# Ninobyte Documentation
+# Ninobyte
 
-**Enterprise tooling for Claude agent ecosystems**
+> Enterprise tooling for Claude agent ecosystems.
 
-[![Case Study](https://img.shields.io/badge/case%20study-portfolio-blue)](https://github.com/iamnortey/portfolio/blob/main/case-studies/ninobyte.md)
+[![Case Study](https://img.shields.io/badge/case%20study-read-blue)](https://github.com/iamnortey/portfolio/blob/main/case-studies/ninobyte.md)
+[![Portfolio](https://img.shields.io/badge/portfolio-iamnortey-green)](https://github.com/iamnortey/portfolio)
 
 ---
 
-## Overview
+## What It Does
 
-Ninobyte provides enterprise-grade education and tooling for Anthropic/Claude agent ecosystems. Verified, secure, and reproducible skill packs, MCP servers, and Claude Code plugins—with full validation trails.
-
-### The Problem
-
-- Official documentation is sparse for advanced use cases
-- Most tutorials are unverified and may be outdated
-- Enterprise organizations need auditable agent tooling
-- Skills, MCP, and Claude Code have different patterns
-
-### The Solution
+Ninobyte provides enterprise-grade education and tooling for Anthropic/Claude agent ecosystems. Verified, secure, and reproducible skill packs, MCP servers, and Claude Code plugins — with full validation trails.
 
 **Validation-first approach:** Every skill validated against official Anthropic documentation. Every decision traced to evidence.
 
 ---
 
-## Stack
+## The Problem
 
-| Component | Technology |
-|-----------|------------|
-| Skills | Claude Skills format |
-| MCP | Model Context Protocol |
-| Plugins | Claude Code extensions |
-| Language | Python |
+- Official documentation is sparse for advanced use cases
+- Most tutorials are unverified and may be outdated
+- Enterprise organizations need auditable agent tooling
+- Skills, MCP, and Claude Code have different patterns that are easy to conflate
 
 ---
 
@@ -38,20 +28,20 @@ Ninobyte provides enterprise-grade education and tooling for Anthropic/Claude ag
 
 | Product | Description |
 |---------|-------------|
-| **Senior Developer's Brain** | Job system for enterprise engineering |
-| **MCP Server Templates** | Boilerplate for MCP development |
+| **Senior Developer's Brain** | Job system for enterprise engineering workflows |
+| **MCP Server Templates** | Boilerplate for MCP server development |
 | **Claude Code Plugins** | Extensions for Claude Code |
 
 ---
 
-## Documentation
+## Stack
 
-| Document | Description |
-|----------|-------------|
-| [Architecture](./ARCHITECTURE.md) | System design |
-| [Case Study](./CASE_STUDY.md) | Full case study |
-| [Security](./docs/security.md) | Security practices |
-| [ADRs](./docs/adr/) | Architecture decisions |
+| Component | Technology |
+|-----------|------------|
+| **Skills** | Claude Skills format |
+| **MCP** | Model Context Protocol |
+| **Plugins** | Claude Code extensions |
+| **Language** | Python |
 
 ---
 
@@ -68,30 +58,24 @@ All decisions link back to canonical documentation.
 
 ---
 
-## Metrics
+## Documentation
 
-| Metric | Value |
-|--------|-------|
-| Python | 996K+ lines |
-| Validation entries | 10+ |
-| ADRs | 5+ |
-| Target verticals | 9 |
+| Document | Description |
+|----------|-------------|
+| [Architecture](./ARCHITECTURE.md) | System design |
+| [Case Study](./CASE_STUDY.md) | Full project overview |
+| [Security](./docs/security.md) | Security practices |
+| [ADRs](./docs/adr/) | Architecture decision records |
 
 ---
 
-## Repo Access Note
+## Access
 
-The core implementation is in a **private repository**.
-
-This repository contains:
-- Architecture documentation
-- Governance patterns
-- ADR examples
-- Validation methodology
+The core implementation is in a **private repository**. This repository contains architecture documentation, governance patterns, ADR examples, and validation methodology.
 
 ---
 
 ## Related
 
-- [Portfolio](https://github.com/iamnortey/portfolio)
-- [Full Case Study](https://github.com/iamnortey/portfolio/blob/main/case-studies/ninobyte.md)
+- [Portfolio](https://github.com/iamnortey/portfolio) — all case studies and architecture samples
+- [Case Study](https://github.com/iamnortey/portfolio/blob/main/case-studies/ninobyte.md) — full project deep-dive
