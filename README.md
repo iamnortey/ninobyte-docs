@@ -1,101 +1,35 @@
-# Ninobyte
+# Ninobyte · Software and practical AI training
 
-> Connected AI Operator practice. Governed AI workflows, agentic engineering, and proof-of-work systems built on a three-agent local AI operating system.
+Ninobyte is Isaac Nortey’s one-person practice, building useful software and teaching practical AI skills. I use **Codex and Claude Code** as engineering partners, while taking responsibility for product decisions, testing and delivery.
 
-**Connect. Govern. Execute. Prove.**
+My current focus is **small and micro businesses in the US, starting in Greater Boston**: customer intake, inventory questions, business documents, staff knowledge and practical IT workflows.
 
-[![Case Study](https://img.shields.io/badge/case%20study-read-blue)](https://github.com/iamnortey/portfolio/blob/main/case-studies/ninobyte.md)
-[![Portfolio](https://img.shields.io/badge/portfolio-iamnortey-green)](https://github.com/iamnortey/portfolio)
+[Ninobyte](https://ninobyte.com/) · [Ninobyte Learning](https://learn.ninobyte.com/) · [Project portfolio](https://github.com/iamnortey/portfolio)
 
----
+## Built and building
 
-## What It Does
+| Work | Current status |
+|---|---|
+| [Builders 60](https://github.com/iamnortey/portfolio/blob/main/case-studies/builders60.md) | Live website and application system for a two-builder initiative; proposed Codex-focused project learning |
+| [Ninobyte Learning](https://github.com/iamnortey/portfolio/blob/main/case-studies/ninobyte-learning.md) | Public website and free five-lesson starter; Modern Leverage curriculum developing |
+| [Education products](https://github.com/iamnortey/portfolio) | Prepnest Library and GHSchools in protected review |
+| [Ojanaa](https://github.com/iamnortey/portfolio/blob/main/case-studies/ojanaa.md) | Commerce workflow implementation and inventory/reporting foundations |
+| [Circle MCP](https://github.com/iamnortey/portfolio/blob/main/case-studies/circle-mcp.md) | Implemented community information and content tools; public documentation |
 
-Ninobyte teaches and operates governed AI execution. Practical AI for real work — with approval gates, evidence trails, and portable proof of work. The practice spans education (the Connected AI Operator Lab and the AWS-native CloudOps and Security labs), templates and kits (Founder Brief Kit, Job Search Operator Kit, Proof Pack), and the underlying engineering system that produces it all — a three-agent local AI operating system.
+## Working with a small business
 
-**Doctrine:** Connect. Govern. Execute. Prove. Read first. Write only with approval. Spend only inside a sandbox. Commit only through review. Deploy only with rollback.
+Start with one recurring task. Understand how it works today, agree what a useful result looks like, build a small version and check it together. Leave the owner with a repeatable process and instructions they can follow.
 
----
+A [proposed Clover/POS inventory pilot](https://github.com/iamnortey/portfolio/blob/main/proposals/clover-inventory-pilot.md) would start from an approved export before evaluating a read-only integration. It is a future pilot, not an existing merchant deployment.
 
-## The Problem
+## Practical AI and IT training
 
-- AI lives in a browser tab, disconnected from the documents, repos, and systems where work actually happens.
-- Prompt courses produce momentary cleverness, not durable capability.
-- Job seekers have certificates but no proof of work that a hiring manager respects.
-- Founders have ideas but no operating system to execute them with leverage.
-- Teams have tools but no governance — secrets leak, credentials sprawl, agents drift.
-- Most AI training optimizes for excitement; enterprise buyers and serious operators now require trust, evidence, and reversibility.
+Ninobyte Learning turns this method into exercises: provide context, build an output, check the result, correct mistakes and save a reusable workflow. Proposed business sessions include customer communication, document preparation, stock review and building useful tools with Codex.
 
----
+The [CloudOps](https://github.com/ninobyte-cloudops-lab/cloudops-lab-overview) and [AI security](https://github.com/ninobyte-cloudops-lab/ai-security-governance-lab-overview) learning foundations remain part of the wider work. Their public overviews describe readiness; they are not open-cohort announcements.
 
-## Practice Areas
+## Engineering approach
 
-| Area | Description |
-|------|-------------|
-| **Connected AI Operator Lab** | The flagship practice teaching the full operator workflow — connect, govern, execute, prove |
-| **AI-Native CloudOps Lab — AWS** | Governed AWS AI workload practice with safety gates and proof packs ([overview](https://github.com/ninobyte-cloudops-lab/cloudops-lab-overview)) |
-| **AI Security & Governance Lab — AWS** | Defensive AI security review with synthetic evidence and ticket-driven workflows ([overview](https://github.com/ninobyte-cloudops-lab/ai-security-governance-lab-overview)) |
-| **Operator Kits** | Founder Brief Kit, Job Search Operator Kit, Proof Pack templates, Connected Workflow Starter |
-| **Three-Agent Local AI OS** | The engineering system underneath: Architect (plans, audits, validates) → Builder (implements) → Verification Lab (verifies, captures evidence) |
+I use limited access, explicit decisions before changes to business systems, realistic testing and documented recovery. Codex and Claude Code support the work; I review the result and remain accountable for delivery.
 
----
-
-## Key Patterns
-
-### Read-First Defaults
-Default to read-only access; promote to write only after a human approves. Applies to repos, cloud accounts, databases, and external APIs.
-
-### Approval Gates
-No autonomous writes. `git commit`, `git push`, package installs, destructive ops — all require an explicit human Y/N before execution.
-
-### Sandboxed Spend
-Stripe test mode. AWS read-only roles. Throwaway repos before production. Reversibility before scale.
-
-### Evidence Trails
-Every workflow produces a portable proof-of-work artifact — a README, a screenshot, a recorded session, a sanitized evidence pack — that a reviewer can act on without seeing the private internals.
-
-### Governance Versioning
-Doctrine documents are version-controlled the same way code is — with diffs, backups, and acknowledgment trails.
-
----
-
-## Implementation Details
-
-The underlying engineering uses widely available primitives — exposed here for engineers and contributors, not as the public headline.
-
-| Layer | Technology |
-|-------|------------|
-| **Local agents** | Architect (planner / validator), Builder (executor), Verification Lab (browser QA / evidence) |
-| **Connectors** | Model Context Protocol (MCP) servers and clients |
-| **Skill packs** | Claude Skills format, agent prompt libraries |
-| **Plugins** | Claude Code extensions and workflows |
-| **Languages** | TypeScript, Python, SQL |
-| **Cloud focus** | AWS-first depth (Bedrock, IAM, CloudTrail, S3, Macie, Guardrails) |
-| **Safety toolchain** | gitleaks, semgrep, trufflehog, approval gates, read-only defaults |
-
----
-
-## Documentation
-
-| Document | Description |
-|----------|-------------|
-| [Case Study](https://github.com/iamnortey/portfolio/blob/main/case-studies/ninobyte.md) | Connected AI Operator practice overview |
-| [CloudOps Lab Overview](https://github.com/ninobyte-cloudops-lab/cloudops-lab-overview) | Governed AWS AI workload practice |
-| [AI Security & Governance Lab Overview](https://github.com/ninobyte-cloudops-lab/ai-security-governance-lab-overview) | Defensive AI security and audit workflows |
-
----
-
-## Public/Private Boundary
-
-This repository is the **public doctrine surface** for Ninobyte. It contains architecture documentation, governance patterns, ADR examples, and the published doctrine. Implementation repos, curriculum, instructor materials, cost and safety gates, lab scenario architecture, and synthetic-evidence models live in private repositories by design.
-
-No credentials, no client data, no internal solution guides, and no private implementation details appear here.
-
----
-
-## Related
-
-- [Portfolio](https://github.com/iamnortey/portfolio) — case studies, ADRs, runbooks, proof packs
-- [Case Study](https://github.com/iamnortey/portfolio/blob/main/case-studies/ninobyte.md) — Connected AI Operator practice deep-dive
-- [CloudOps Lab](https://github.com/ninobyte-cloudops-lab/cloudops-lab-overview) — governed AWS AI practice
-- [AI Security & Governance Lab](https://github.com/ninobyte-cloudops-lab/ai-security-governance-lab-overview) — defensive AI security and audit workflows
+This repository is public documentation. Product implementations, private learning materials and operational records remain in their appropriate private locations.
