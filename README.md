@@ -6,26 +6,31 @@
 
 # Ninobyte
 
-**Software and practical AI training for small businesses.**
+**IT consulting, custom software and practical training.**
 
-I’m Isaac Nortey. I run Ninobyte as a one-person practice, using Codex and Claude Code to help build, test and improve useful tools. My focus is US small and micro businesses, starting in Greater Boston.
+I’m Isaac Nortey, the person behind Ninobyte. I build useful tools and help people develop the skills to use and improve them. I work solo with Codex and Claude Code across implementation, testing and review.
 
-**[Explore the project portfolio](https://github.com/iamnortey/portfolio)** · [Ninobyte](https://ninobyte.com/) · [Learning](https://learn.ninobyte.com/)
+**[Visit our website](https://ninobyte.com/)** · [Project portfolio](https://github.com/iamnortey/portfolio) · [IT training](https://ninobyte.com/training)
 
-## Build
+## Build, connect and learn
 
-**[Builders 60](https://github.com/iamnortey/portfolio/blob/main/case-studies/builders60.md)** brings together a live application service and a two-builder initiative. The proposed next learning direction is taking a useful project from idea to tested result with Codex.
+Ninobyte helps small businesses and teams turn their own tasks into practical learning projects:
 
-Current product work also includes **Prepnest Library** and **GHSchools** in private review, and **Ojanaa** commerce workflows in development.
+- Set up Codex with useful instructions, tools and verification habits.
+- Build reusable agent skills, MCP servers, connectors and plugins.
+- Connect everyday applications, documents and APIs.
+- Develop commerce, inventory, document and printing workflows.
+- Build websites, applications, internal tools and learning resources.
+- Test the result and leave a guide another person can follow.
 
-## Teach
+[Explore training areas and examples](https://github.com/iamnortey/portfolio/blob/main/BUSINESS-TRAINING.md)
 
-**[Ninobyte Learning](https://github.com/iamnortey/portfolio/blob/main/case-studies/ninobyte-learning.md)** helps people turn a task into a workflow they can check and repeat. A free five-lesson starter is published inside Ninobyte School; Modern Leverage is in development.
+## Work that informs the training
 
-## Apply
+**[Builders 60](https://github.com/iamnortey/portfolio/blob/main/case-studies/builders60.md)** has a live application service and a two-builder initiative. Its next learning direction is taking a useful project from idea to tested result with Codex.
 
-For a small business, start with one recurring task: customer intake, stock review, document preparation or staff knowledge. Agree on a useful result, build a small version and leave clear instructions.
+**[Ninobyte Learning](https://github.com/iamnortey/portfolio/blob/main/case-studies/ninobyte-learning.md)** has a published free starter and specialist paths in development. **Prepnest Library** and **GHSchools** are in private review; **Ojanaa** commerce workflows are in development.
 
-The **[proposed Clover/POS pilot](https://github.com/iamnortey/portfolio/blob/main/proposals/clover-inventory-pilot.md)** starts with an approved inventory export before evaluating a read-only integration.
+The [portfolio](https://github.com/iamnortey/portfolio) explains each project’s current state. Training starts with the task and available tools, with the scope agreed together.
 
-[Discuss a first project](https://ninobyte.com/)
+[Discuss a project or training need](https://ninobyte.com/contact)
